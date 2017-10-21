@@ -1,3 +1,15 @@
+matrix.led('black').render()
+
+setTimeout(() => {
+  matrix.led('green').render()
+}, 200)
+
+setTimeout(() => {
+  matrix.led('black').render()
+}, 400)
+
+
+
 matrix.on('test', () => {
   matrix.led('blue').render()
 
