@@ -1,0 +1,8 @@
+# do not touch this line
+configVersion: 2
+
+description: Face Recognition for VISA hackaton
+keywords: matrix faceID
+name: fr
+shortName: fr
+displayName: Fr
